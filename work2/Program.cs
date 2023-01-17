@@ -26,7 +26,7 @@ internal class Program
             max = number3;
         }
 
-Console.WriteLine("Наибольшее из введённых чисел -> " + max);
+        Console.WriteLine("Наибольшее из введённых чисел -> " + max);
     }
 
     private string GetDebuggerDisplay()
